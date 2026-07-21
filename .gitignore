@@ -1,0 +1,10 @@
+~$*.docx
+node_modules/
+.expo/
+__pycache__/
+dist/
+.claude/
+CLAUDE.md
+AGENTS.md
+chapters/01_엑스포로_Hello_World_만들기/artifacts/ch1_hello_world.png
+chapters/01_엑스포로_Hello_World_만들기/artifacts/ch1_hello_world_clean.png
