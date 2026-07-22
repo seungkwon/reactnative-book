@@ -1,0 +1,12 @@
+{
+  "name": "fcm-admin-sender",
+  "version": "1.0.0",
+  "private": true,
+  "main": "send-message.js",
+  "scripts": {
+    "start": "node send-message.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^13.5.0"
+  }
+}

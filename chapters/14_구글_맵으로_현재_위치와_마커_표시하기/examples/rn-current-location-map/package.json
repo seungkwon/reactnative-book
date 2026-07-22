@@ -1,0 +1,16 @@
+{
+  "name": "rn-current-location-map",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "android": "react-native run-android",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react": "19.2.3",
+    "react-native": "0.86.0",
+    "react-native-geolocation-service": "^5.3.1",
+    "react-native-maps": "^1.26.18"
+  }
+}
